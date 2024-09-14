@@ -1,0 +1,113 @@
+﻿  Bird.cpp
+  Flash.cpp
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,94): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,94): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,94): warning C4244:             T=unsigned int
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,94): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,94): warning C4244:         and
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,94): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,94): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,94): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,67): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,67): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,67): warning C4244:             T=unsigned int
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,67): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,67): warning C4244:         and
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,67): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,67): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(7,67): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(21,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(25,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(33,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Flash.cpp(37,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GameOverState.cpp
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(58,164): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(58,164): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(58,164): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(58,164): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(58,164): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(59,206): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(59,206): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(59,206): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(59,206): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(59,206): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(66,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(66,110): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(66,110): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(66,110): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(66,110): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(66,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(66,76): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(66,76): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(66,76): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(66,76): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(73,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(73,114): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(73,114): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(73,114): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(73,114): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(73,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(73,80): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(73,80): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(73,80): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\GameOverState.cpp(73,80): warning C4244:         ]
+  GameState.cpp
+  HUD.cpp
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,96): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,96): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,96): warning C4244:             T=unsigned int
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,96): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,96): warning C4244:         and
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,96): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,96): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,96): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,65): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,65): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,65): warning C4244:             T=unsigned int
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,65): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,65): warning C4244:         and
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,65): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,65): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\HUD.cpp(19,65): warning C4244:         ]
+  Land.cpp
+C:\Users\User\Documents\Project\Flappybird\Land.cpp(29,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Land.cpp(29,50): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\Land.cpp(29,50): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\Land.cpp(29,50): warning C4244:             T=unsigned int
+C:\Users\User\Documents\Project\Flappybird\Land.cpp(29,50): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\Land.cpp(29,50): warning C4244:         and
+C:\Users\User\Documents\Project\Flappybird\Land.cpp(29,50): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\Land.cpp(29,50): warning C4244:             T=float
+C:\Users\User\Documents\Project\Flappybird\Land.cpp(29,50): warning C4244:         ]
+  MainMenuState.cpp
+  Pipe.cpp
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(18,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(18,51): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(18,51): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(18,51): warning C4244:             T=unsigned int
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(18,51): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(27,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(27,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(27,51): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(27,51): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(27,51): warning C4244:             T=unsigned int
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(27,51): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(36,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(36,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(36,51): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(36,51): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(36,51): warning C4244:             T=unsigned int
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(36,51): warning C4244:         ]
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(46,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(46,51): warning C4244:         with
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(46,51): warning C4244:         [
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(46,51): warning C4244:             T=unsigned int
+C:\Users\User\Documents\Project\Flappybird\Pipe.cpp(46,51): warning C4244:         ]
+  SplashState.cpp
+  main.cpp
+  Generating Code...
+  Flappybird.vcxproj -> C:\Users\User\Documents\Project\Flappybird\x64\Debug\Flappybird.exe
