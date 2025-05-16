@@ -1,2 +1,2 @@
 # Flappybird
-Flappybird using SFML
+Flappybird using SFML. Forked from my personal account.
